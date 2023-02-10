@@ -100,8 +100,8 @@
 
 						<suiteXmlFiles>
 							<suiteXmlFile>testng_DDT.xml</suiteXmlFile>
-							<!-- <suiteXmlFile>testng_DDT.xml</suiteXmlFile>
-							<suiteXmlFile>testng_DDT.xml</suiteXmlFile> -->
+							<suiteXmlFile>testng_reqres.xml</suiteXmlFile>
+							<!--<suiteXmlFile>testng_DDT.xml</suiteXmlFile> -->
 						</suiteXmlFiles>
 
 					</configuration>
